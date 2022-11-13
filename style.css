@@ -1,0 +1,13 @@
+body{
+    background: lemonchiffon;
+}
+#divmain{
+    width: 800px;
+    border: 2px solid crimson;
+}
+#victory{
+    color: orangered;
+}
+img{
+    width: 200px;
+}
